@@ -25,3 +25,7 @@ def water_order(request):
 def list_orders(request):
   template = loader.get_template('list_orders.html')
   return HttpResponse(template.render())
+
+def testing(request, id):
+  template = loader.get_template('testing.html')
+  return HttpResponse(template.render())

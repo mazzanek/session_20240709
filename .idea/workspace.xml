@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="199dfaaa-ec65-461e-a4c4-5672ad5fa50e" name="Changes" comment="step2">
-      <change afterPath="$PROJECT_DIR$/ordering/orders/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/list_orders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/main_menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/water_order.html" afterDir="false" />
+    <list default="true" id="199dfaaa-ec65-461e-a4c4-5672ad5fa50e" name="Changes" comment="all _ form ready">
+      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/testing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordering/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordering/orders/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordering/orders/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordering/orders/templates/main_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/templates/main_menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ordering/orders/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ordering/orders/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/views.py" afterDir="false" />
     </list>
@@ -24,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -83,12 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720543907898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all _ form ready">
+      <option name="closed" value="true" />
+      <created>1720550853966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720550853966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="step1" />
     <MESSAGE value="step2" />
-    <option name="LAST_COMMIT_MESSAGE" value="step2" />
+    <MESSAGE value="all _ form ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="all _ form ready" />
   </component>
 </project>
