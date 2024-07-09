@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+{% include 'header.html' %}
+
+{% block content %}
+{% endblock %}
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Submit</button>
+</form>
+
+{% include 'footer.html' %}
+
+</body>
+</html>

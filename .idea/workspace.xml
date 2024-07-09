@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="199dfaaa-ec65-461e-a4c4-5672ad5fa50e" name="Changes" comment="step1">
-      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/all_orders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ordering/orders/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="199dfaaa-ec65-461e-a4c4-5672ad5fa50e" name="Changes" comment="step2">
+      <change afterPath="$PROJECT_DIR$/ordering/orders/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/list_orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/main_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/orders/templates/water_order.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordering/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordering/orders/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordering/orders/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordering/orders/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordering/orders/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordering/orders/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -44,7 +47,8 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -71,11 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720540627043</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="step2">
+      <option name="closed" value="true" />
+      <created>1720543907898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720543907898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="step1" />
-    <option name="LAST_COMMIT_MESSAGE" value="step1" />
+    <MESSAGE value="step2" />
+    <option name="LAST_COMMIT_MESSAGE" value="step2" />
   </component>
 </project>
